@@ -3,6 +3,13 @@
 ## Overview
 This repository contains an Exploratory Data Analysis (EDA) exercise on 120 years of Olympic games data (1896 to 2016). The dataset includes information about athletes, their performances, and medal results.
 
+
+## Environment
+
+This project was developed using the Kaggle environment. You can find the original Kaggle notebook [https://www.kaggle.com/code/nargeshaghparast/olympics]
+
+
+
 ## Dataset
 I'll be working with the athlete_events.csv file, where each row corresponds to an individual athlete competing in an Olympic event.
 The dataset includes information such as athlete details, team, NOC code, year, season, sport, event, and medal results.
